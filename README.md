@@ -10,8 +10,11 @@ Our objective is to gather comprehensive data about the top 125 films listed on 
 
 ### TASK DIVISION ###
 
-Beautiful Soup - Natalia Miela 
+Beautiful Soup 
+Natalia Miela 
 
-Scrapy - Nurdan Beşli 
+Scrapy 
+Nurdan Beşli 
 
-Selenium - Mehmet Tiryaki 
+Selenium 
+Mehmet Tiryaki 
